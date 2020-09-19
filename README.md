@@ -1,4 +1,4 @@
-# CapstoneProjectTemplate /* Replace this line with the title of your project */
+# Offline Video Editing
 
 ## **Summary**
 
@@ -6,9 +6,10 @@ Put a very high-level summary of the project.
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Hunter Line
+- Jacob Goelz
+- Jaden Drury
+- Samuel Guernsey
 
 ## **Client Partner Information**
 
