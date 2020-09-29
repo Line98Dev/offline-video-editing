@@ -9,8 +9,11 @@ This file contains the minutes from the initial client meeting on 9/28/20 with t
 
 ## Screencaptures and mockups
 
-![currentProduct.png] The current product the client has we will be working off of.
+![currentProduct.png](https://github.com/Line98Dev/offline-video-editing/blob/master/Discovery/currentProduct.png?raw=true)
+The current product the client has we will be working off of.
 
-![exampleMockup.png] A possible mock up for the playlist functionality.
+![exampleMockup.png](https://github.com/Line98Dev/offline-video-editing/blob/master/Discovery/exampleMockup.png?raw=true)
+A possible mock up for the playlist functionality.
 
-![screenshotWithParticipants.png] A screenshot with all who attended this meeting.
+![screenshotWithParticipants.png](https://github.com/Line98Dev/offline-video-editing/blob/master/Discovery/screenshotWithParticipants.png?raw=true)
+A screenshot with all who attended this meeting.
