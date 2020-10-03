@@ -2,7 +2,7 @@
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+Convert the current web application to a desktop and mobile application to view, edit, and share videos for sports officials to train them so they will be able to officiate more effectively and efficiently. Creating offline tools will allow the end users be able to modify their videos prior to uploading which will speed up the time from when they recieve the video to when they are able to edit and review the footage. Providing offline tools will allow allow the company to save money on storage costs as not needing to save hours of videos in paid storage while only about 15 minutes is needed and will be used, this will drastically simplify the infrastructure.
 
 ## **Team Members**
 
@@ -14,11 +14,10 @@ Put a very high-level summary of the project.
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+[Zooom App](https://zooomapp.com/)
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Kyle Armstrong
 
 ## **Links**
 
