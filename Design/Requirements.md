@@ -1,15 +1,114 @@
 ## Functional Requirements
-* Functional Requirement ID
-  * Functional Requirement Description
+* FR1
+  * Application can be used offline on Windows
   * Priority: :red_circle: High
-  * Business Requirement ID
+  * BR1
+  
+* FR2
+  * Application can be used offline on Mac
+  * Priority: :red_circle: High
+  * BR1
+  
+* FR3
+  * Application can be used offline on Android
+  * Priority: :red_circle: High
+  * BR1
+  
+* FR4
+  * Application can be used offline on iPhone
+  * Priority: :red_circle: High
+  * BR1
+  
+* FR5
+  * Can add telestrations to videos
+  * Priority: :orange_circle: Medium
+  * BR1
+  
+* FR6
+  * Can add voice over to videos (max of 60 seconds)
+  * Priority: :orange_circle: Medium
+  * BR1
+  
+* FR7
+  * Can clip a video (adding tags to the video)
+  * Priority: :red_circle: High
+  * Business BR1
+  
+* FR8
+  * Can add slides to a video (slides are like full screen text overlays)
+  * Priority: :medium_circle: Medium
+  * BR1
+  
+* FR9
+  * Can add surveys to a video
+  * Priority: :red_circle: Medium
+  * BR1
+  
+* FR10
+  * Can clear telestrations from a videos
+  * Priority: :orange_circle: Medium
+  * BR1
+  
+* FR11
+  * Can clear voice over from videos
+  * Priority: :orange_circle: Medium
+  * BR1
+  
+* FR12
+  * Can clear slides from a video
+  * Priority: :orange_circle: Medium
+  * BR1
+  
+* FR13
+  * Can clear surveys from a video
+  * Priority: :orange_circle: Medium
+  * BR1
+  
+* FR14
+  * User can upload a video from the offline application to the online application
+  * Priority: :red_circle: High
+  * BR1
+  
+ * FR15
+  * Users can authenticate to the Zooom account via offline application
+  * Priority: :red_circle: High
+  * BR1
 
 ## Non-functional Requirements
-* Non-functional Requirement 1
-  * Non-functional Requirement Description
-  * Priority: :green_circle: Low
-  * Business Requirement ID
+* NFR1
+  * Faster upload time for videos	
+  * Priority: :red_circle: High
+  * BR2
 
+* NFR2
+  * Download a screenshot from current position in the video including any annotation on screen
+  * Priority: :green_circle: Low
+  * BR1
+
+* NFR3
+  * Stopwatch feature
+  * Priority: :green_circle: Low
+  * BR1
+
+* NFR4
+  * Video Volume control
+  * Priority: :green_circle: Low
+  * BR1
+
+* NFR5
+  * Any video clips that are uploaded together from a single video will be uploaded in a playlist	
+  * Priority: :red_circle: High
+  * BR2
+
+* NFR6
+  * Product needs to be compliant with the Zooom App visual style guides.
+  * Priority: :green_circle: Low
+  * BR3
+  
+* NFR7
+  * Video format will be exportable for use outside of Zooom offline app
+  * Priority: :green_circle: Low
+  * BR4
 
 ### Symbol Key
 * High Priority :red_circle:
