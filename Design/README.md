@@ -15,3 +15,6 @@ A file for a list of requirments both functional and non-functional, the priorit
 
 [TechStack.md](https://github.com/Line98Dev/offline-video-editing/blob/master/Design/TechStack.md)
 An list an explanation of the TechStacks being used for this project.
+
+[Prototype.md](https://github.com/Line98Dev/offline-video-editing/blob/master/Design/Prototype.md)
+A document containing information and links to the prototypes for this project.
