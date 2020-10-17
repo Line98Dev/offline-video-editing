@@ -20,7 +20,7 @@
   * BR1
   
 * FR5
-  * Can add telestrations to videos
+  * Can add telestrations to videos, which are saved
   * Priority: :orange_circle: Medium
   * BR1
   
@@ -40,7 +40,7 @@
   * BR1
   
 * FR9
-  * Can add surveys to a video
+  * Can add polls to a video
   * Priority: :red_circle: Medium
   * BR1
   
@@ -69,8 +69,28 @@
   * Priority: :red_circle: High
   * BR1
   
- * FR15
+* FR15
   * Users can authenticate to the Zooom account via offline application
+  * Priority: :red_circle: High
+  * BR1
+  
+* FR16
+  * Users can download and install a Windows application 
+  * Priority: :red_circle: High
+  * BR1
+  
+* FR17
+  * Users can download and install a MacOS application 
+  * Priority: :red_circle: High
+  * BR1
+  
+* FR18
+  * Users can download and install a IOS application 
+  * Priority: :red_circle: High
+  * BR1
+ 
+* FR19
+  * Users can download and install a Android application 
   * Priority: :red_circle: High
   * BR1
 
@@ -81,7 +101,7 @@
   * BR2
 
 * NFR2
-  * Download a screenshot from current position in the video including any annotation on screen
+  * Save a screenshot from current position in the video including any annotation on screen
   * Priority: :green_circle: Low
   * BR1
 
@@ -91,7 +111,7 @@
   * BR1
 
 * NFR4
-  * Video Volume control
+  * Video Volume control (YouTube like)
   * Priority: :green_circle: Low
   * BR1
 
