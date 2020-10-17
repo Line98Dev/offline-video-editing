@@ -4,4 +4,4 @@ Desktop Prototype Adobe XD Link: https://assets.adobe.com/id/urn:aaid:sc:US:edf2
 
 Mobile Prototype Adobe XD Link: https://assets.adobe.com/id/urn:aaid:sc:US:dd988898-d74e-4d99-a66a-d5081f67e187?view=difile
 
-Walkthrough Video Link:
+Walkthrough Video Link: https://youtu.be/deZYueL4Yns
