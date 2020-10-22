@@ -36,7 +36,7 @@
   
 * FR8
   * Can add slides to a video (slides are like full screen text overlays)
-  * Priority: :medium_circle: Medium
+  * Priority: :orange_circle: Medium
   * BR1
   
 * FR9
@@ -100,14 +100,14 @@
   * Priority: :red_circle: High
   * BR2
 
-* NFR2
-  * Save a screenshot from current position in the video including any annotation on screen
-  * Priority: :green_circle: Low
-  * BR1
+~~* NFR2~~
+  ~~* Save a screenshot from current position in the video including any annotation on screen~~
+  ~~* Priority: :black_circle: None~~
+  ~~* BR1~~
 
 * NFR3
   * Stopwatch feature
-  * Priority: :green_circle: Low
+  * Priority: :black_circle: None
   * BR1
 
 * NFR4
