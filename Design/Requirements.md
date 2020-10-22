@@ -105,10 +105,10 @@
   ~~* Priority: :black_circle: None~~
   ~~* BR1~~
 
-* NFR3
-  * Stopwatch feature
-  * Priority: :black_circle: None
-  * BR1
+~~* NFR3~~
+  ~~* Stopwatch feature~~
+  ~~* Priority: :black_circle: None~~
+  ~~* BR1~~
 
 * NFR4
   * Video Volume control (YouTube like)
