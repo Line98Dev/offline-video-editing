@@ -15,3 +15,6 @@
 4. __BR4__
     *  Create a video format so that users can play it offline.
     *  Many of the clients have expressed that they would like the ability to play the videos offline when they’re on fields, or in classrooms without stable interest connections. Currently the videos are only playable if you have a connection to the Zooom website.
+
+5. __BR5__
+    * Users can tag videos with either pre-definied or user generated tags to allow the ability to search and improve the overall search functionality.
