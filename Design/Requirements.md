@@ -30,7 +30,7 @@
   * BR1
   
 * FR7
-  * Can clip a video (adding tags to the video)
+  * Can clip a video
   * Priority: :red_circle: High
   * Business BR1
   
@@ -93,6 +93,31 @@
   * Users can download and install a Android application 
   * Priority: :red_circle: High
   * BR1
+  
+* FR20
+  * Users can add additional information about the video (Home Team, Away Team, Game #, Title, Sport, Level, Location, and Video Description. 
+  * Priority: :orange_circle: Medium
+  * BR5
+  
+* FR21
+  * Users can pick from pre-selected information instead of open ended text boxes.
+  * Priority: :orange_circle: Medium
+  * BR5
+  
+* FR22
+  * Users can create tags to apply to videos
+  * Priority: :green_circle: Low
+  * BR5
+  
+* FR23
+  * Users can search by tags to find relevant videos
+  * Priority: :orange_circle: Medium
+  * BR5
+  
+* FR24
+  * Users can modify tags on videos.
+  * Priority: :green_circle: Low
+  * BR5
 
 ## Non-functional Requirements
 * NFR1
