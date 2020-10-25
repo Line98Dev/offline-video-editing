@@ -1,4 +1,4 @@
-![The Domain Model](https://github.com/Line98Dev/offline-video-editing/blob/master/Design/Domain%20Model.png?raw=true)
+![The Domain Model](https://raw.githubusercontent.com/Line98Dev/offline-video-editing/master/Design/DomainModel.png)
 
 ### User
 - Name (String): The name of the user.
