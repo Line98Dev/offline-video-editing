@@ -12,18 +12,9 @@
 - Level (String): The level of skill of the user.
 
 ### Video
-- Name (String): The name of the video.
 - Length (Integer): The length of the video.
 - Date (Date): The date/timestamp of the video.
 - Content (List<Content>): The list of content added to the video (like slides, voiceover, telestration, tag, and polls).
-- Sport (Sport): The type of sport of the video.
-
-### Content
-- Timestamp (Integer): The spot in which the content starts.
-- Creation Date (Date): The date which the content was created.
-- Video (Video): The video which includes the content.
-- Author (User): The person who created the content.
-- Length (Integer): The length the content displays.
 - HomeTeam (String): The name of the home team which played.
 - AwayTeam (String): The name of the away team which played.
 - Game (Integer): The game number of the video.
@@ -32,6 +23,13 @@
 - Level (String): The skill level of he event (middle school, high school, collegiate, etc.).
 - Location (String): Where the event took place.
 - Description (String): The description of the video/event.
+
+### Content
+- Timestamp (Integer): The spot in which the content starts.
+- Creation Date (Date): The date which the content was created.
+- Video (Video): The video which includes the content.
+- Author (User): The person who created the content.
+- Length (Integer): The length the content displays.
 
 ### Slide (implements Content)
 - Message (String): The message to show during the video.
