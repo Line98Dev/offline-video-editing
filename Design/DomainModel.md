@@ -24,16 +24,20 @@
 - Video (Video): The video which includes the content.
 - Author (User): The person who created the content.
 - Length (Integer): The length the content displays.
+- HomeTeam (String): The name of the home team which played.
+- AwayTeam (String): The name of the away team which played.
+- Game (Integer): The game number of the video.
+- Title (String): The title of the video.
+- Sport (String): Which sport which was played.
+- Level (String): The skill level of he event (middle school, high school, collegiate, etc.).
+- Location (String): Where the event took place.
+- Description (String): The description of the video/event.
 
 ### Slide (implements Content)
 - Message (String): The message to show during the video.
 
-### Tag (implements Content)
-- Name (String): The name of the tag.
-- Description (String): The description of the tag/clip that the user created.
-
 ### Poll (implements Content)
-- Options (Array<String>): A array of selections for the poll
+- Options (Array<String>): A array of selections for the poll.
 - Answer (Integer): The index of the Options array which is the correct option.
 - Closing Time (Date): The date & time which the poll closes.
 
@@ -44,6 +48,6 @@
 
 ### Teletration (implements Content)
 - Name (String): The name of the telestration.
-- Type (String): The type of the telestration (line, square, circle, custom, etc.)
+- Type (String): The type of the telestration (line, square, circle, custom, etc.).
 - Color (String): The color of the telestration.
 - X & Y (Integers): The coordinates (x and y respectively) where the telestration is.
