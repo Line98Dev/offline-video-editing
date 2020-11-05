@@ -29,7 +29,5 @@ Convert the current web application to a desktop and mobile application to view,
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.github.com/WHEREEVER_THE_ANDROID_CODE_IS/)
-- [Php Backend](https://www.github.com/WHEREEVER_THE_PHP_CODE_IS)
-- Others if more.
+- [Desktop App - Windows Presentation Foundation](https://github.com/Line98Dev/offline-video-editing-wpf)
 
