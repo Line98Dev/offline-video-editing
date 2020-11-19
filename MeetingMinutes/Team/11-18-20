@@ -1,0 +1,30 @@
+# Week of 11/15/2020 - 11/21/2020
+
+## Meeting Start Time
+2020/11/18/05:38
+
+## Meeting End Time
+2020/10/14/09:08
+
+## Location/Medium
+Zoom Video Call
+
+## Present
+Sam, Hunter, Jaden, Jacob
+
+## Minute Recorder
+Jaden
+
+
+## Topics Discussed
+- sorting out any current problems people are having with the IDE's 
+  - learned that hot reload is not supported by UWP Xamarin builds in Visual studio
+  - discussed whether we should switch to a new version of Xamarin Essentails library so that we can make use of the cross platform file picker tools
+    - decided we would use the pre release that has been out for the longest (not the most recent) 1.6.0 and have commited the change to our repo
+    - means that hopefully we won't have to worry about file problems in the future
+- Pair programming time on project
+  - created log in page
+    - defined _sevices as a new constructor to pass to all functions that need to use the existing services.
+    - created log in functionality
+    - created log out functionality
+  - created pages for each of the existing screns that will need to exist
