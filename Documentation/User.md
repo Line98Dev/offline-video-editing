@@ -10,7 +10,7 @@
     * Sign in to Zooom
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" width="400">
     
-    * Upload a video
+    * Upload a video to uploader
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Upload.png" width="400">
     
     * Play the video
