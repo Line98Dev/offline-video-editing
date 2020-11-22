@@ -2,7 +2,7 @@
 * User manual for your end users that shows how to use the various features of your software
   * Steps for User Manual:
     * Install Visual Studio or Install the app for Zooom.
-    * IF VISUAL STUDIO:
+  * IF VISUAL STUDIO:
     * The three dropdowns at the top of the screens need to be Debug, x64 and ZooomNative.UWP
     * Click the green arrow next to ZooomNative.UWP to launch application
     * Sign in to Zooom
