@@ -31,5 +31,5 @@
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/LogOut.png" width="400">
 
   * Assume your software is available to the end-user in some form through a URL or installation of the binary
-    * For less expirenced users go through Microsoft Store. If you want a challenge to the Viuals Studio route. 
+    * For less expirenced users go through Microsoft Store. If you want a challenge to the Visual Studio route. 
 
