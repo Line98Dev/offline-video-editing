@@ -5,7 +5,7 @@
   * The best place for the repository for the project is the suggested Visual Studio installation directory. For better access however, you can move the folder to the desktop for easier access.  
 * How to start/stop the system
   * The way to start/stop the system is by following these steps:
-    * * Step 1: Download and install Visual Studio 2019 with the packages shown here
+    *  Step 1: Download and install Visual Studio 2019 with the packages shown here
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/packages.png" width="720">
    
     * Step 2: Go to the azure devops repository page and click the “clone” button, located next to the blue “build” button. https://dev.azure.com/thetyros/Zooom%20Website%20and%20Services/_git/Zooom%20Desktop%20Video%20Uploader 
@@ -28,6 +28,8 @@
     * Step 11: In those dropdown boxes make sure to have Debug, x64 and ZooomNative.UWP Selected.   
     * Step 12: Once those are selected hit the Green play button. 
     * Step 13: Once you have gone through the application, you can close the window that pops by clicking the red x. 
+    * Creating a ZIP file
+      * Use [this](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps#generate-an-app-package) Microsoft document to create a ZIP file.
 
 * How to troubleshoot if something goes wrong
   * First thing to do is if something is going wrong, make sure that you are on a Windows 10 device and that your current version of Windows is up to date. Another thing to check is to make sure that you have restored the NuGet packages. Also, make sure that when looking at the project in Visual Studio, that you are on the bsu-offline branch (Mentioned in steps above).
