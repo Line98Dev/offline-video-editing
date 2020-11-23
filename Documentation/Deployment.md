@@ -8,9 +8,9 @@
     * * Step 1: Download and install Visual Studio 2019 with the packages shown here
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/packages.png" width="720">
    
-    * Step 2: Go to the azure devops page and click the button next to the repository name.
+    * Step 2: Go to the azure devops repository page and click the “clone” button, located next to the blue “build” button. https://dev.azure.com/thetyros/Zooom%20Website%20and%20Services/_git/Zooom%20Desktop%20Video%20Uploader 
     * Step 3: In the subsequent menu  click the dropdown menu that by default says “clone to vs code” and instead select “clone to visual studio”
-    * Step 4: Follow the instructions on the following menu
+    * Step 4: A window will then open in your browser, click the prompt to open visual studio.
     * Step 5: Once Visual Studio opens, make sure you are in the team explorer tab. 
     * Step 6: From there go to the bottom left hand corner and click master    
     * Step 7: After clicking on master click manage branches.
