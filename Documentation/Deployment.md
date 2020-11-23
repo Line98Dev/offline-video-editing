@@ -2,7 +2,7 @@
 * What kind of server is needed
   * This project is an application that runs off a users local machine and connects to a Microsoft Azure server for certain features.For user authentication, users will use their Zooom.com credentials. Primarily though, for the project to run, you just need a Windows 10 computer connected to WiFi. 
 * Where to put which file/folder
-  * The best place to put the repository for the project is the suggested Visual Studio 2019 installation directory. For better access however, you can move the folder to the desktop for easier access. 
+  * The best place for the repository for the project is the suggested Visual Studio installation directory. For better access however, you can move the folder to the desktop for easier access.  
 * How to start/stop the system
   * The way to start/stop the system is by following these steps:
     * * Step 1: Download and install Visual Studio 2019 with the packages shown here
