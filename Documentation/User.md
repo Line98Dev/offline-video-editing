@@ -1,6 +1,7 @@
 # User 
 * User manual for your end users that shows how to use the various features of your software
   * ZIP FILE:
+    * Right click ZooomNative.UWP_0.0.5.0_Debug_Test to unzip
     * Open ZooomNative.UWP_0.0.5.0_Debug_Test and right click Install.ps1
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ZooomNativeInstall.png" width="400">
     
