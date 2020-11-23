@@ -2,7 +2,7 @@
 * Tech aspects of the system
   * The tech aspect of the system is being able to login/logout and upload a video and play that video in the uploader.
 * What kind of technologies are needed to replicate and how
-  * The kind of technologies that are needed to replicate the project are a Windows 10 computer and Visual Studio
+  * The kind of technologies that are needed to replicate the project are a Windows 10 computer and Visual Studio 2019
   * These are the steps of how to replicate it:
     *   Step 1: Download and install Visual Studio 2019 with the packages shown here
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/packages.png" width="720">
