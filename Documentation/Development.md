@@ -45,6 +45,8 @@
 * Explaining important files, such as config files
   * Important files are similar throughout the project. This image shows these important files:
   <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Native.png" width="400">
+  
+  * To run tests, run ZooomUnitTests. If this does not work uncolapse ZooomUnitTests and right click serives and run tests. 
 
 * Special section on how to test and how to interpret the result
   * Sign in screen
