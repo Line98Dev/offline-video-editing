@@ -29,7 +29,7 @@
     * Step 12: Once those are selected hit the Green play button. 
     * Step 13: Once you have gone through the application, you can close the window that pops by clicking the red x. 
     * Creating a ZIP file
-      * Use [this](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps#generate-an-app-package) Microsoft document to create a ZIP file.
+      * Use this [Microsoft document](https://docs.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps#generate-an-app-package) to create a ZIP file.
 
 * How to troubleshoot if something goes wrong
   * First thing to do is if something is going wrong, make sure that you are on a Windows 10 device and that your current version of Windows is up to date. Another thing to check is to make sure that you have restored the NuGet packages. Also, make sure that when looking at the project in Visual Studio, that you are on the bsu-offline branch (Mentioned in steps above).
