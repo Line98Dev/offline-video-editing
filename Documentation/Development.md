@@ -25,4 +25,19 @@
   <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Native.png" width="400">
 
 * Special section on how to test and how to interpret the result
-  * In Progress
+  * Sign in screen
+    * Users can sign in with Zooom credentials and the application will authenticate that you are using the right credentials. Also if the user does not have a Zooom account, they can register at the Zooom website. Another thing is, if the user forgets their password, they can change it via the link (Forgot Password) to Zooom’s website. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" width="400">
+    
+  * Upload
+    * If the user presses the add file buttton, it will bring up a file explorer and allow the user to pick a mp4 file to add to the application. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Upload.png" width="400">
+    
+  * Play Video
+    * On this page, the user will be able to see what video he uploaded and be able to play that video. Also, on this screen it shows the title of what your video file is called. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/LogOut.png" width="400">
+    
+  * Log out
+    * User can press the log out button and log out of Zooom account. This will delete work that was done. This is the case for this iteration. This problem is going to be solved in the future. 
+     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/LogOut.png" width="400">
+
