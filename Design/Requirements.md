@@ -1,21 +1,21 @@
 ## Functional Requirements
-* FR1
-  * Application can be used offline on Windows
+* FR1 :heavy_check_mark:
+  * Application can be used natively on Windows
   * Priority: :red_circle: High
   * BR1
   
 * FR2
-  * Application can be used offline on Mac
+  * Application can be used natively on Mac
   * Priority: :red_circle: High
   * BR1
   
-* FR3
-  * Application can be used offline on Android
+* FR3 :heavy_check_mark:
+  * Application can be used natively on Android
   * Priority: :red_circle: High
   * BR1
   
 * FR4
-  * Application can be used offline on iPhone
+  * Application can be used natively on iPhone
   * Priority: :red_circle: High
   * BR1
   
@@ -64,17 +64,17 @@
   * Priority: :orange_circle: Medium
   * BR1
   
-* FR14
-  * User can upload a video from the offline application to the online application
+* FR14 
+  * User can upload a video from the native application to the online application
   * Priority: :red_circle: High
   * BR1
   
-* FR15
-  * Users can authenticate to the Zooom account via offline application
+* FR15 :heavy_check_mark:
+  * Users can authenticate to the Zooom account via native application
   * Priority: :red_circle: High
   * BR1
   
-* FR16
+* FR16 :heavy_check_mark:
   * Users can download and install a Windows application 
   * Priority: :red_circle: High
   * BR1
@@ -89,17 +89,17 @@
   * Priority: :red_circle: High
   * BR1
  
-* FR19
+* FR19 :heavy_check_mark:
   * Users can download and install a Android application 
   * Priority: :red_circle: High
   * BR1
   
-* FR20
+* FR20 :heavy_check_mark:
   * Users can add additional information about the video (Home Team, Away Team, Game #, Title, Sport, Level, Location, and Video Description. 
   * Priority: :orange_circle: Medium
   * BR5
   
-* FR21
+* FR21 
   * Users can pick from pre-selected information instead of open ended text boxes.
   * Priority: :orange_circle: Medium
   * BR5
@@ -159,3 +159,4 @@
 * High Priority :red_circle:
 * Medium Priority :orange_circle:
 * Low Priority :green_circle:
+* Completed :heavy_check_mark:
