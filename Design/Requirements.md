@@ -125,15 +125,15 @@
   * Priority: :red_circle: High
   * BR2
 
-~~* NFR2~~
-  ~~* Save a screenshot from current position in the video including any annotation on screen~~
-  ~~* Priority: :black_circle: None~~
-  ~~* BR1~~
+* ~~NFR2~~
+  * ~~Save a screenshot from current position in the video including any annotation on screen~~
+  * ~~Priority: :black_circle: None~~
+  * ~~BR1~~
 
-~~* NFR3~~
-  ~~* Stopwatch feature~~
-  ~~* Priority: :black_circle: None~~
-  ~~* BR1~~
+* ~~NFR3~~
+  * ~~Stopwatch feature~~
+  * ~~Priority: :black_circle: None~~
+  * ~~BR1~~
 
 * NFR4
   * Video Volume control (YouTube like)
