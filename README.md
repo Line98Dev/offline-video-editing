@@ -27,7 +27,7 @@ Convert the current web application to a desktop and mobile application to view,
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
 - [Project Documentation](/Documentation)
 - [Presentations](/Documentation)
-- [Freedcamp Project Management System](/Presentations)
+- [Freedcamp Project Management System](https://freedcamp.com/view/2825283/tasks)
 
 ## **Code Repositories**
 
