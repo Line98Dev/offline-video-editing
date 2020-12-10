@@ -64,7 +64,7 @@
   * Priority: :orange_circle: Medium
   * BR1
   
-* FR14 
+* FR14 :heavy_check_mark:
   * User can upload a video from the native application to the online application
   * Priority: :red_circle: High
   * BR1
@@ -140,7 +140,7 @@
   * Priority: :green_circle: Low
   * BR1
 
-* NFR5
+* NFR5 :heavy_check_mark:
   * Any video clips that are uploaded together from a single video will be uploaded in a playlist	
   * Priority: :red_circle: High
   * BR2
