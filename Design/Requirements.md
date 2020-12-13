@@ -99,7 +99,7 @@
   * Priority: :orange_circle: Medium
   * BR5
   
-* FR21 
+* FR21 :heavy_check_mark:
   * Users can pick from pre-selected information instead of open ended text boxes.
   * Priority: :orange_circle: Medium
   * BR5
@@ -135,7 +135,7 @@
   * ~~Priority: :black_circle: None~~
   * ~~BR1~~
 
-* NFR4
+* NFR4 :heavy_check_mark:
   * Video Volume control (YouTube like)
   * Priority: :green_circle: Low
   * BR1
