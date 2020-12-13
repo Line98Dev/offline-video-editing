@@ -80,4 +80,30 @@
   * Log out
     * User can press the log out button and log out of Zooom account. This will delete work that was done. This is the case for this iteration. This problem is going to be solved in the future. 
      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/LogOut.png" width="400">
+     
+  * ANDROID:
+    * Sign in
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDsignin.png" width="400">
+    
+    * Upload video to uploader
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDupload2.png" width="400">
+    
+    * Edit video information
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDvideoupload.png" width="400">
+    
+    * 
+    
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDvideoupload2.png" width="400">
+    
+    * 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDedit.png" width="400">
+    
+    * Upload Video to Zooom website
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDvideoupload4.png" width="400">
+    
+    * Help Screen
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDhelp.png" width="400">
+    
+    * Log out
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDvideoupload3.png" width="400">
 
