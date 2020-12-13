@@ -59,7 +59,7 @@
     
   * Play Video
     * On this page, the user will be able to see what video he uploaded and be able to play that video. Also, on this screen it shows the title of what your video file is called. Another thing is, you can add details about the video. The information that you can add is, the home team, the away team, the game number, the sport, the level (minor, pro, grade school), the location of the game, and the description of the game.
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/LogOut.png" width="400">
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/u.png" width="400">
     
     * 
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/EditInfo.png" width="400">
