@@ -8,15 +8,37 @@
     * Then select run with powershell
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Installps1.png" width="400">
     
+    * Once powershell is open, follow the instructions and look at the picture as a guide.
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Powershell.png" width="400">
+    
+    * After you have said to run the install, it may ask you to install the license certificate. Just follow the prompt carefully and install the certificate. Once everything is installed, run the Zooom Desktop Producer.
+    
     * Sign in to Zooom
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" width="400">
     
-    * Upload a video to uploader
+    * Upload a video to uploader. You can add multiple videos to the uploader. 
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Upload.png" width="400">
     
-    * Play the video
+    * Once the video is uploaded to the uploader, you have the option to play the video.
     
-    * Sign out or close the window and that will stop the program.
+    * Next you would edit the video's details before uplaoding to Zooom.
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/EditInfo.png" width="400">
+    
+    * 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/EditDesc.png" width="400">
+    
+    
+    * After editing the video details, you can now upload the video to Zooom's main website. You can upload multiple videos to the website. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/VideoUpload.png" width="400">
+    
+    
+    * Once you hit upload go to [Zooom's webstite](https://portal.zooomapp.com/Account/Login) to login and check that the video has been uploaded. You will see a progress bar in Zooom if the video has not fully uploaded by the time you check to see if the video has uploaded. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Zooom2.png" width="400">
+    
+    * 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Zooom1.png" width="400">
+    
+    * Once you are finished using Zooom Desktop Producer, you can either exit out of the program or sign out and close the program.
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/LogOut.png" width="400">
 
   * Assume your software is available to the end-user in some form through a URL or installation of the binary
