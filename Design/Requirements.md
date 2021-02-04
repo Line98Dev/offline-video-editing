@@ -14,7 +14,7 @@
   * Priority: :red_circle: High
   * BR1
   
-* FR4
+* FR4 :heavy_check_mark:
   * Application can be used natively on iPhone
   * Priority: :red_circle: High
   * BR1
@@ -84,7 +84,7 @@
   * Priority: :red_circle: High
   * BR1
   
-* FR18
+* FR18 :heavy_check_mark:
   * Users can download and install a IOS application 
   * Priority: :red_circle: High
   * BR1
@@ -111,7 +111,7 @@
   
 * FR23
   * Users can search by tags to find relevant videos
-  * Priority: :orange_circle: Medium
+  * Priority: :orange_circle: Low
   * BR5
   
 * FR24
