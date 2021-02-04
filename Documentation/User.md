@@ -1,7 +1,7 @@
 # User 
 * User manual for your end users that shows how to use the various features of your software
 
-    * Open the Start menu and find the Zooom Desktop Producer application. Click to run it.
+    * Open the application by clicking the application icon wherever apps are accessible on your device.
     <table>
       <tr>
          <td>Mobile</td>
@@ -13,7 +13,7 @@
       </tr>
     </table>
     
-    * Sign in to Zooom
+    * Sign in to the application using your Zooom credentials. These are the same username and password you use on https://zooomapp.com/.
     <table>
       <tr>
          <td>Mobile</td>
