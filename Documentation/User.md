@@ -2,16 +2,22 @@
 * User manual for your end users that shows how to use the various features of your software
 
     * Open the Start menu and find the Zooom Desktop Producer application. Click to run it.
-    <p float="left">
-      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/windows-start-menu-application.png" width="400">
-      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-AppDrawer.jpg?raw=true" width="100">
-    </p>
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/windows-start-menu-application.png" width="400"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-AppDrawer.jpg?raw=true" width="100"></td>
+      </tr>
+    </table>
     
     * Sign in to Zooom
     <p float="left">
-      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDsignin.png" width="400">
-      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" width="400">
-    </p>    
+      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDsignin.png" height="300">
+      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" height="300">
+    </p>
     
     * Upload a video to uploader. You can add multiple videos to the uploader. 
     <p float="left">
