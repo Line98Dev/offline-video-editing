@@ -1,0 +1,40 @@
+# Week of 2/1/2021 - 2/7/2021
+
+## Meeting Start Time
+2021/2/3/07:00
+
+## Meeting End Time
+2021/2/3/08:00
+
+## Location/Medium
+Zoom Video Call
+
+## Present
+Sam, Hunter, Jaden, Jacob
+
+## Minute Recorder
+Jaden
+
+
+## Topics Discussed
+- Review of due dates and what we still need to submit
+- @Austin to get mentor meeting scheduled
+- Emailed kyle to get client meeting scheduled 
+- Worked on some testing issues we kept having
+- talk about what our 4th iteration goals will be
+  - Video Clipping is the highest priority feature that we could have
+- Ergin has not released details for presentation yet so we cannot move forward on that yet.
+- updating freedcamp
+- recording video of install process of repo and how we don't have to use docker in that process 
+- discuss availablity for the rest of this week.
+- talk about code conventions and do some basic refactoring really quick
+  - class private variables are snake case
+  - classes methods and class variables are camel case
+  - lower camel case are local variables
+  - the ide will correct you on this
+
+
+## Things Clarified
+- Sam and Hunter will be on tomoorrow afternoon to work on testing with Jaden joining in the evening if still on
+- By Friday have all documentation updated mostly and have the beginning works of what we need turned in ready.
+- Turn in everything by Saturday so we can have Sunday off if possible.
