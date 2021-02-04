@@ -4,7 +4,7 @@
     * Open the Start menu and find the Zooom Desktop Producer application. Click to run it.
     <p float="left">
       <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/windows-start-menu-application.png" width="400">
-      <img src="" width="400">
+      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-AppDrawer.jpg?raw=true" width="100">
     </p>
     
     * Sign in to Zooom
