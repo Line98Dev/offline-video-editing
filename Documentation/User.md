@@ -1,5 +1,5 @@
 # User 
-* User manual for your end users that shows how to use the various features of your software
+* This is a user guide on how to use the offline ZooomApp application
 
     * Open the application by clicking the application icon wherever apps are accessible on your device.
     <table>
