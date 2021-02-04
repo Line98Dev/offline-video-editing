@@ -14,10 +14,16 @@
     </table>
     
     * Sign in to Zooom
-    <p float="left">
-      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDsignin.png" height="300">
-      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" height="300">
-    </p>
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDsignin.png" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" height="300"></td>
+      </tr>
+    </table>
     
     
     * Upload a video to uploader. You can add multiple videos to the uploader. 
