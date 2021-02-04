@@ -19,6 +19,7 @@
       <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" height="300">
     </p>
     
+    
     * Upload a video to uploader. You can add multiple videos to the uploader. 
     <p float="left">
       <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Upload.png" width="400">
