@@ -1,17 +1,7 @@
 # User 
 * User manual for your end users that shows how to use the various features of your software
-  * ZIP FILE:
-    * Right click ZooomNative.UWP_0.0.5.0_Debug_Test to unzip
-    * Open ZooomNative.UWP_0.0.5.0_Debug_Test and right click Install.ps1
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ZooomNativeInstall.png" width="400">
-    
-    * Then select run with powershell
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Installps1.png" width="400">
-    
-    * Once powershell is open, follow the instructions and look at the picture as a guide.
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Powershell.png" width="400">
-    
-    * After you have said to run the install, it may ask you to install the license certificate. Just follow the prompt carefully and install the certificate. Once everything is installed, run the Zooom Desktop Producer.
+
+    * Open the Start menu and find the Zooom Desktop Producer application. Click to run it.
     
     * Sign in to Zooom
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" width="400">
