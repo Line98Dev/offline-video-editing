@@ -14,12 +14,18 @@
     </p>    
     
     * Upload a video to uploader. You can add multiple videos to the uploader. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Upload.png" width="400">
+    <p float="left">
+      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Upload.png" width="400">
+      <img src="" width="400">
+    </p>        
     
     * Once the video is uploaded to the uploader, you have the option to play the video.
     
     * Next you would edit the video's details before uplaoding to Zooom.
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/EditInfo.png" width="400">
+    <p float="left">
+      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/EditInfo.png" width="400">
+      <img src="" width="400">
+    </p>      
     
     * 
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/EditDesc.png" width="400">
