@@ -36,7 +36,7 @@
   - PLAN: Will be in presentation Hunter shows. 
 ### TEAMWORK (show in the presentation):
   - TASK: Each team member will explain what they did/produced and what part of the code they worked on.
-  - PLAN: Will be in presentation Hunter shows.
+  - PLAN: Each member will explain what they did.
 ### RANDOM (show in the presentation):
 - OPTIONAL: Prepare an interesting slide that might be totally unrelated to the project or the class.
 - PLAN: Will be in presentation Hunter shows.
