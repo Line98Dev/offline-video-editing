@@ -33,7 +33,7 @@ Once logged in to the application you will see this screen. This is the Playlist
       </tr>
       <tr>
          <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-EmptyPlaylistView.jpg" height="300"></td>
-         <td><img src="" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-EmptyPlaylistView.png" height="300"></td>
       </tr>
     </table>
     
