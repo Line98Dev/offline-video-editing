@@ -28,7 +28,7 @@
 ### DOCUMENTATION (open the document directly):
   - TASK: Open your User.md file and walk us through the newest features in the document and demonstrate the steps in the software.
   - PLAN: Hunter will walk through the [User.md](Documentation/User.md) documentation with the live application
-- FEEDBACK (show in the presentation):
+### FEEDBACK (show in the presentation):
   - TASK: Show mentor feedback and client feedback.
   - PLAN: Will be in presentation Hunter shows.
 ### FUTURE (show in the presentation):
