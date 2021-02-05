@@ -4,8 +4,8 @@
     * Open the application by clicking the application icon wherever apps are accessible on your device.
     <table>
       <tr>
-         <td>Mobile</td>
          <td>Desktop</td>
+         <td>Mobile (Android)</td>
       </tr>
       <tr>
          <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/windows-start-menu-application.png" width="400"></td>
