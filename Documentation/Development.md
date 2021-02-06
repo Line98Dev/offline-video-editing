@@ -51,60 +51,114 @@
 * Special section on how to test and how to interpret the result
   * Sign in screen
     * Users can sign in with Zooom credentials and the application will authenticate that you are using the right credentials. Also if the user does not have a Zooom account, they can register at the Zooom website. Another thing is, if the user forgets their password, they can change it via the link (Forgot Password) to Zooom’s website. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-Login.png" width="400">
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-Login.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-Login.png" height="300"></td>
+      </tr>
+    </table>
     
   * Add Playlist
     * The user can add a playlist on this screen.
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyPlaylistView.png" width="400">
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-EmptyPlaylistView.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyPlaylistView.png" height="300"></td>
+      </tr>
+    </table>
+    
     
     * This is what it will look like after adding a new playlist.
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" width="400">
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-NewPlaylistAdded.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" height="300"></td>
+      </tr>
+    </table>
     
   * Edit Playlist/Upload Video to playlist
-    * First you will click the edit playlist button and that will bring you to this screen. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyVideoView.png" width="400">
+    * First you will click the 'Edit playlist' button and that will bring you to this screen. 
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-EmptyVideoView.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyVideoView.png" height="300"></td>
+      </tr>
+    </table>
  
     * Once you have done that, you can click 'Add a video to upload' to upload a video from your device. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-FilePicker.png" width="400">
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-FilePicker.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-FilePicker.png" height="300"></td>
+      </tr>
+    </table>
     
     * Once that is done, your screen should look like this. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistWithVideo.png" width="400">
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android%20VideoAdded.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistWithVideo.png" height="300"></td>
+      </tr>
+    </table>
     
     * After you have uploaded your video, you can edit the information of the playlist by clicking 'Edit the information'. Once you have done that, your screen should look like this. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistDetails.png" width="400">
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-PlaylistDetails.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistDetails.png" height="300"></td>
+      </tr>
+    </table>
     
   * Playing the Video
     * To play the video, you can play the video in the thumbnail view or you can click the 'Preview' button for a larger video player. Here is a screenshot of the video in 'Preview' mode. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-VideoPreview.png" width="400">
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-VideoPreview.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-VideoPreview.png" height="300"></td>
+      </tr>
+    </table>
     
   * Logging off
     * If you wish to log off, go back to were all your playlists are and click the 'Log out' button.
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" width="400">
-    
-     
-  * ANDROID:
-    * Sign in
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDsignin.png" width="400">
-    
-    * Upload video to uploader
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDupload2.png" width="400">
-    
-    * Edit video information
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDvideoupload.png" width="400">
-    
-    * 
-    
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDvideoupload2.png" width="400">
-    
-    * 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDedit.png" width="400">
-    
-    * Upload Video to Zooom website
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDvideoupload4.png" width="400">
-    
-    * Help Screen
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDhelp.png" width="400">
-    
-    * Log out
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDvideoupload3.png" width="400">
-
+    <table>
+      <tr>
+         <td>Mobile</td>
+         <td>Desktop</td>
+      </tr>
+      <tr>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-NewPlaylistAdded.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" height="300"></td>
+      </tr>
+    </table>
