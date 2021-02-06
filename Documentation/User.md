@@ -20,8 +20,8 @@ Sign in to the application using your Zooom credentials. These are the same user
          <td>Desktop</td>
       </tr>
       <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/ANDsignin.png" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" height="300"></td>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Login.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Login.png" height="300"></td>
       </tr>
     </table>
     
