@@ -36,7 +36,11 @@
   - PLAN: Will be in presentation Hunter shows. 
 ### TEAMWORK (show in the presentation):
   - TASK: Each team member will explain what they did/produced and what part of the code they worked on.
-  - PLAN: Each member will explain what they did.
+  - PLAN: Each member will explain what they did in the following order:
+    1. Hunter - Playlist view, save state of user generated content
+    2. Jaden
+    3. Sam - Testing & Single Clip Preview Page
+    4. Jacob
   - ORDER: Hunter, Jaden, Sam, jacob. 
 ### RANDOM (show in the presentation):
 - OPTIONAL: Prepare an interesting slide that might be totally unrelated to the project or the class.
