@@ -88,12 +88,12 @@ Clicking the "Add a Video" button will pull up a file picker from which to selec
 Clicking the "Upload Videos" button will upload the entire playlist to the Zooom website.
     <table>
       <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
+         <td>Video added to local application</td>
+         <td>Video on Zooom site after uploading</td>
       </tr>
       <tr>
-         <td> <img src="" height="300"></td>
-         <td><img src="" height="300"></td>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-UploadVideoApplication.png" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-UploadVideoWeb.png" height="300"></td>
       </tr>
     </table>
     
