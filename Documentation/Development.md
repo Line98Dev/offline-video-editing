@@ -51,35 +51,36 @@
 * Special section on how to test and how to interpret the result
   * Sign in screen
     * Users can sign in with Zooom credentials and the application will authenticate that you are using the right credentials. Also if the user does not have a Zooom account, they can register at the Zooom website. Another thing is, if the user forgets their password, they can change it via the link (Forgot Password) to Zooom’s website. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/SignIn.png" width="400">
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-Login.png" width="400">
     
-  * Upload
-    * If the user presses the add file buttton, it will bring up a file explorer and allow the user to pick a mp4 file to add to the application.
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Upload.png" width="400">
+  * Add Playlist
+    * The user can add a playlist on this screen.
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyPlaylistView.png" width="400">
     
-  * Play Video
-    * On this page, the user will be able to see what video he uploaded and be able to play that video. Also, on this screen it shows the title of what your video file is called. Another thing is, you can add details about the video. The information that you can add is, the home team, the away team, the game number, the sport, the level (minor, pro, grade school), the location of the game, and the description of the game.
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/u.png" width="400">
+    * This is what it will look like after adding a new playlist.
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" width="400">
     
-    * 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/EditInfo.png" width="400">
+  * Edit Playlist/Upload Video to playlist
+    * First you will click the edit playlist button and that will bring you to this screen. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyVideoView.png" width="400">
+ 
+    * Once you have done that, you can click 'Add a video to upload' to upload a video from your device. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-FilePicker.png" width="400">
     
-    * 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/EditDesc.png" width="400">
+    * Once that is done, your screen should look like this. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistWithVideo.png" width="400">
     
-    * After editing the video details, you can now upload the video to Zooom's main website. You can upload multiple videos to the website. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/VideoUpload.png" width="400">
+    * After you have uploaded your video, you can edit the information of the playlist by clicking 'Edit the information'. Once you have done that, your screen should look like this. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistDetails.png" width="400">
     
+  * Playing the Video
+    * To play the video, you can play the video in the thumbnail view or you can click the 'Preview' button for a larger video player. Here is a screenshot of the video in 'Preview' mode. 
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-VideoPreview.png" width="400">
     
-    * Once you hit upload go to [Zooom's webstite](https://portal.zooomapp.com/Account/Login) to login and check that the video has been uploaded. You will see a progress bar in Zooom if the video has not fully uploaded by the time you check to see if the video has uploaded. 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Zooom2.png" width="400">
+  * Logging off
+    * If you wish to log off, go back to were all your playlists are and click the log off button.
+    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" width="400">
     
-    * 
-    <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Zooom1.png" width="400">
-    
-  * Log out
-    * User can press the log out button and log out of Zooom account. This will delete work that was done. This is the case for this iteration. This problem is going to be solved in the future. 
-     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/LogOut.png" width="400">
      
   * ANDROID:
     * Sign in
