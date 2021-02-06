@@ -40,7 +40,7 @@
     1. Hunter - Playlist view, save state of user generated content
     2. Jaden
     3. Sam - Testing & Single Clip Preview Page
-    4. Jacob
+    4. Jacob- Researched ffmpeg, Worked on Documentation (Development and Deployment), No code
 ### RANDOM (show in the presentation):
 - OPTIONAL: Prepare an interesting slide that might be totally unrelated to the project or the class.
 - PLAN: Will be in presentation Hunter shows.
