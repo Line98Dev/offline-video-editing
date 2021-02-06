@@ -9,7 +9,7 @@ Open the application by clicking the application icon wherever apps are accessib
       </tr>
       <tr>
          <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-AppDrawer.jpg?raw=true" width="100"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/windows-start-menu-application.png" width="400"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/windows-start-menu-application.png" width="400"></td>
       </tr>
     </table>
 
@@ -21,7 +21,7 @@ Sign in to the application using your Zooom credentials. These are the same user
       </tr>
       <tr>
          <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-Login.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Login.png" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-Login.png" height="300"></td>
       </tr>
     </table>
     
@@ -33,7 +33,7 @@ Once logged in to the application you will see this screen. This is the Playlist
       </tr>
       <tr>
          <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-EmptyPlaylistView.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-EmptyPlaylistView.png" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyPlaylistView.png" height="300"></td>
       </tr>
     </table>
     
@@ -45,7 +45,7 @@ You can edit a playlist by clicking next to the "Edit Playlist" button that is n
       </tr>
       <tr>
          <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-NewPlaylistAdded.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-PlaylistCreated.png" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" height="300"></td>
       </tr>
     </table>
     
@@ -57,7 +57,7 @@ This screen is internal contents of your playlist. Once added a list of videos t
       </tr>
       <tr>
          <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-EmptyVideoView.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-EmptyVideoView.png" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyVideoView.png" height="300"></td>
       </tr>
     </table>
     
@@ -69,7 +69,7 @@ Clicking the "Edit the Information" button will bring up a information screen th
       </tr>
       <tr>
          <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-PlaylistDetails.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-PlaylistDetails.png" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistDetails.png" height="300"></td>
       </tr>
     </table>
     
@@ -81,7 +81,7 @@ Clicking the "Add a Video" button will pull up a file picker from which to selec
       </tr>
       <tr>
          <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-FilePicker.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-FilePicker.png" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-FilePicker.png" height="300"></td>
       </tr>
     </table>
     
