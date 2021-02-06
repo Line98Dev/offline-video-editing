@@ -13,7 +13,7 @@ Open the application by clicking the application icon wherever apps are accessib
       </tr>
     </table>
 
-Sign in to the application using your Zooom credentials. These are the same username and password you use on https://zooomapp.com/.
+Sign in to the application using your Zooom credentials. This is the same username and password you use on https://zooomapp.com/.
     <table>
       <tr>
          <td>Mobile</td>
