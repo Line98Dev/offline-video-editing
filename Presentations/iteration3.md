@@ -37,8 +37,8 @@
 ### TEAMWORK (show in the presentation):
   - TASK: Each team member will explain what they did/produced and what part of the code they worked on.
   - PLAN: Each member will explain what they did in the following order:
-    1. Hunter - Playlist view, save state of user generated content
-    2. Jaden
+    1. Hunter - Playlist view, save state of user generated content, presentation media
+    2. Jaden - Layout Designing and implementation, User documentation
     3. Sam - Testing & Single Clip Preview Page
     4. Jacob- Researched ffmpeg, Worked on Documentation (Development and Deployment), No code
 ### RANDOM (show in the presentation):
