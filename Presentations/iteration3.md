@@ -41,7 +41,6 @@
     2. Jaden
     3. Sam - Testing & Single Clip Preview Page
     4. Jacob
-  - ORDER: Hunter, Jaden, Sam, jacob. 
 ### RANDOM (show in the presentation):
 - OPTIONAL: Prepare an interesting slide that might be totally unrelated to the project or the class.
 - PLAN: Will be in presentation Hunter shows.
