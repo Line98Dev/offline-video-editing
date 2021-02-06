@@ -37,14 +37,14 @@
   * C#
 * Explaining folder structure in the code repositories and what they mean
   * The structure of the code is listed by the platforms. The project is a Xamarin/Xamarin.forms project.  
-  <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Platforms.png" width="400">
+  <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/Platforms.png" width="400">
   
   * Then those 4 categories are separated further. Let's look at ZooomNative.UWP for example. 
-  <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP.png" width="400">
+  <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/UWP.png" width="400">
   
 * Explaining important files, such as config files
   * Important files are similar throughout the project. This image shows these important files:
-  <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Native.png" width="400">
+  <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/Native.png" width="400">
   
   * To run tests, run ZooomUnitTests. If this does not work uncolapse ZooomUnitTests and right click serives and run tests. 
 
@@ -78,7 +78,7 @@
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-VideoPreview.png" width="400">
     
   * Logging off
-    * If you wish to log off, go back to were all your playlists are and click the log off button.
+    * If you wish to log off, go back to were all your playlists are and click the 'Log out' button.
     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" width="400">
     
      
