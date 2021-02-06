@@ -80,8 +80,8 @@ Clicking the "Add a Video" button will pull up a file picker from which to selec
          <td>Desktop</td>
       </tr>
       <tr>
-         <td> <img src="" height="300"></td>
-         <td><img src="" height="300"></td>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-FilePicker.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-FilePicker.png" height="300"></td>
       </tr>
     </table>
     
