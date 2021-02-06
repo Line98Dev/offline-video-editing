@@ -44,8 +44,8 @@ You can edit a playlist by clicking next to the "Edit Playlist" button that is n
          <td>Desktop</td>
       </tr>
       <tr>
-         <td> <img src="" height="300"></td>
-         <td><img src="" height="300"></td>
+         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-NewPlaylistAdded.jpg" height="300"></td>
+         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-PlaylistCreated.png" height="300"></td>
       </tr>
     </table>
     
