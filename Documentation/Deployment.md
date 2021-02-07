@@ -6,16 +6,30 @@ To download and install the application from the prefabricated install files dow
 
 Once the file is downloaded, unzip it.
 
-Inside of the unzipped file find Install.ps1 and right click the folder. Then select "run with Powershell".
+Inside of the unzipped file find Install.ps1 and right click the file. Then select "run with Powershell".
 A blue window that is the PowerShell will automatically open, and then display some prompts for you to follow.
+
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/intall_file.png" width="400">
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/run_powershell.png" width="400">
 
 For the first one regarding the execution policy. Type "A" and press enter.
 
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/powershell_1.png" width="400">
+
+
 The app will then show a installation progress bar in the powershell window in teal.
+
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/powershell_2.png" width="400">
+
 
 After the application is done installing it will give you a success message like seen here. Press enter and the PowerShell window will close.
 
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/powershell_3.png" width="400">
+
+
 You should now be able to open your Windows start screen and scroll down to the "Z" section to see the Zooom Desktop Producer Application icon.
+
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/windows-start-menu-application.png" width="400">
 
 Simply click the icon to run the application.
 
