@@ -1,6 +1,6 @@
 # Deployment
 
-## Deploying From Pre-Made Files__
+## Deploying From Pre-Made Files: For Users who will only be interacting with the application as a customer
 
 To download and install the application from the prefabricated install files download the file from [here](https://ballstate-my.sharepoint.com/personal/htline_bsu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhtline%5Fbsu%5Fedu%2FDocuments%2FClasses%2FSpring%202021%2FCS%20498%2FIteration%203&originalPath=aHR0cHM6Ly9iYWxsc3RhdGUtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvaHRsaW5lX2JzdV9lZHUvRXRQUTk1VlN0QTlHbFpmMjBKNlJzdUFCUTgzb0t5b3A2Ukl5dTVPOF8xRFBaUT9ydGltZT1wOHpJdjF6SjJFZw)
 
@@ -19,7 +19,7 @@ You should now be able to open your Windows start screen and scroll down to the 
 
 Simply click the icon to run the application.
 
-## Deployment from Repository (good for individuals that will be working on the further maintenece or development of the application)
+## Deployment from Repository: For individuals that will be working on the further maintenece or development of the application
 __What kind of server is needed__
 
 This project is an application that runs off a users local machine and connects to a Microsoft Azure server for certain features.For user authentication, users will use their Zooom.com credentials. Primarily though, for the project to run, you just need a Windows 10 computer connected to WiFi. 
