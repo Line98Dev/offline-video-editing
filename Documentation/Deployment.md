@@ -34,7 +34,6 @@ Copy ffmpeg to the directory C:\Users\<username>\AppData\Local\Packages\ZoomDesk
 
 <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/LocalState.png" width="720">
   
-
 You should now be able to open your Windows start screen and scroll down to the "Z" section to see the Zooom Desktop Producer Application icon.
 
 <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/windows-start-menu-application.png" width="400">
