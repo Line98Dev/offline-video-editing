@@ -1,8 +1,6 @@
 # User 
 This is a user guide on how to use the offline ZooomApp application
 
-![App Icon]()
-
 [Opening the Application](#Opening-the-Application)
 
 [Adding A Playlist](#Adding-a-Playlist)
@@ -29,12 +27,12 @@ This is a user guide on how to use the offline ZooomApp application
 
 [Navigating Pages](#Navigating-Pages)
 
-![App Icon]()
-
 ### Opening the Application
 Open the application by clicking the application icon wherever apps are accessible on your device.
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/windows-start-menu-application.png)
+
+[Back to Table of Contents](#User)
 
 ### Adding a Playlist
 
@@ -44,12 +42,15 @@ Once logged in you will be faced with the Playlist screen. On this screen any pl
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/MadeFirstPlaylist.png)
 
+[Back to Table of Contents](#User)
 
 ### Removing a Playlist
 
 Once a playlist is added to the list each playlist will have an "edit" and "remove" button to the right. Clicking on the "remove" button immediately to the right of a playlist will remove that specific playlist and will also delete any contents within the playlist as well.
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/MadeFirstPlaylist.png)
+
+[Back to Table of Contents](#User)
 
 ### Editing Playlist Information
 
@@ -60,6 +61,8 @@ To edit the information associated with a playlist click the "Edit Playlist" but
 This is the details screen for the playlist. Here you can fill out the fields to indicate what the videos in the playlist are about and change the title of the playlist. When you're done filling out the information, click the "submit" button to save your changes. You will then be directed back to the screen showing the contents of the playlist.
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/PlaylistDetails.png)
+
+[Back to Table of Contents](#User)
 
 ### Adding a Video
 
@@ -73,17 +76,23 @@ Once you select your videos in the file picker hit "Open" and then the videos wi
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/ListOfVideos.png)
 
+[Back to Table of Contents](#User)
+
 ### Removing a Video
 
 To remove a video from a playlist click the "remove" button that is directly to the right of the video that you want to remove. This will remove the video from the playlist.
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/ListOfVideos.png)
 
+[Back to Table of Contents](#User)
+
 ### Reordering Videos in A Playlist
 
 To reorder videos in a playlist click the "up" or "down" buttons that are directly to the left of the video that you want to move. Clicking these will either move the video up one in the list, or down one in the list.
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/ListOfVideos.png)
+
+[Back to Table of Contents](#User)
 
 ### Viewing a Video
 
@@ -94,6 +103,8 @@ To view a video click on the "preview" button to the right of the video you want
 You will be taken to a screen like this which has a video player with the selected video. Click on the video player controls to play and pause the video.
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/ClipPreview.png)
+
+[Back to Table of Contents](#User)
 
 ### Clipping a Video
 
@@ -117,6 +128,8 @@ Each new clip will follow the same name pattern with the number at the end of cl
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/IncrementingClipCount.png)
 
+[Back to Table of Contents](#User)
+
 ### Uploading a Playlist
 
 Once you have made as many video clips as you want, and added all your videos, you can click the "Upload Videos" button that is at the bottom of the window.
@@ -124,6 +137,8 @@ This will send your playlist to the Zooom servers under your account and will al
 Keep in mind that the process of uploading the videos still may take some time, but you do not have to have the Zooom website open for it to finish.
 
 ![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/PlaylistNoVideos.png)
+
+[Back to Table of Contents](#User)
 
 ### Logging In
 
@@ -133,15 +148,17 @@ If you need to reset your password or register, click the red links on this page
 
 ![App Login Screen](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/LoginScreen.png)
 
+[Back to Table of Contents](#User)
 
 ### Logging Out
 
 To log out, towards the top right of every screen is a "Logout" button. Click it to log out of the application. You will be taken back to the login screen.
 
+[Back to Table of Contents](#User)
 
 ### Navigating Pages
 
 To navigate between pages click the button that corresponds with the page you want to go to. If you want to go back a page, in the top right corner of each page is a "Go back" button that will take you back one page.
 So for example if you are in the video player page for a video clicking go back will take you to the playlist page that the video is in. Clicking go back again will then take you to the Playlists page that shows all playlists.
 
-
+[Back to Table of Contents](#User)
