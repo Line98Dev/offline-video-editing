@@ -48,6 +48,14 @@
   
   * To run tests, run ZooomUnitTests. If this does not work uncolapse ZooomUnitTests and right click serives and run tests. 
 
+For clipping to function, an additional step is required. FFmpeg is an additional download that is required. From the <a href="https://www.gyan.dev/ffmpeg/builds/">release section</a> on that page and download one of the "essentials" versions. Within that zip or 7z file, navigate to the folder ffmpeg-x.x.x-xxxx-xx-xx-essentials_build and then the bin folder. 
+
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/zip.png" width="720">
+
+Copy ffmpeg to the directory C:\Users\<username>\AppData\Local\Packages\ZoomDesktopProducer_<generated characters>\LocalState and create a folder called "ffmpeg". Now put ffmpeg.exe into that folder.
+
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/LocalState.png" width="720">
+
 * Special section on how to test and how to interpret the result
   * Sign in screen
     * Users can sign in with Zooom credentials and the application will authenticate that you are using the right credentials. Also if the user does not have a Zooom account, they can register at the Zooom website. Another thing is, if the user forgets their password, they can change it via the link (Forgot Password) to Zooom’s website. 

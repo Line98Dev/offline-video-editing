@@ -26,7 +26,14 @@ After the application is done installing it will give you a success message like
 
 <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/powershell_3.png" width="400">
 
+For clipping to function, an additional step is required. FFmpeg is an additional download that is required. From the <a href="https://www.gyan.dev/ffmpeg/builds/">release section</a> on that page and download one of the "essentials" versions. Within that zip or 7z file, navigate to the folder ffmpeg-x.x.x-xxxx-xx-xx-essentials_build and then the bin folder. 
 
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/zip.png" width="720">
+
+Copy ffmpeg to the directory C:\Users\<username>\AppData\Local\Packages\ZoomDesktopProducer_<generated characters>\LocalState and create a folder called "ffmpeg". Now put ffmpeg.exe into that folder.
+
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Deployment-Development-Screenshots/LocalState.png" width="720">
+  
 You should now be able to open your Windows start screen and scroll down to the "Z" section to see the Zooom Desktop Producer Application icon.
 
 <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/windows-start-menu-application.png" width="400">
