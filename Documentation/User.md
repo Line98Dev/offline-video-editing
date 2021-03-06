@@ -1,7 +1,7 @@
 # User 
 This is a user guide on how to use the offline ZooomApp application
 
-[Opening the Application](###Opening the Application)
+[Opening the Application](### Opening the Application)
 
 [Adding A Playlist](#Adding a Playlist)
 
