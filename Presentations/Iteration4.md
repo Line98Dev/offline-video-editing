@@ -31,7 +31,7 @@ TASK: What did the client give permission to be used in the Student Symposium?
 TASK: Show 5th iteration features.
 # TEAMWORK (show in the presentation)
 TASK: Each team member will explain what they did/produced and what part of the code they worked on.
-- Hunter - Playlist view, save state of user generated content, presentation media, updated Development and Deployment documentation to include FFmpeg
+- Hunter - Playlist view, presentation media, updated Development and Deployment documentation to include FFmpeg
 - Jaden - Layout Designing and implementation, User documentation
 - Sam - Testing & Sorting/customizing list of clips in a playlist
 - Jacob- Researched FFmpeg
