@@ -4,6 +4,7 @@
   ## Functional
   TASK: Demonstrate the new functionality on top of existing ones.
   TASK: Clearly talk about what was existing and what is new.
+  PLAN: Showcase the clipping functionality and the improvements to the UI
   ## Aesthetics
   TASK: Show different pieces of the software and explain what you did in terms of aesthetics.
   ## Modularity
@@ -15,6 +16,7 @@
   TASK: Show which parts of your code is covered and not covered. Why?
   ## Development environment
   TASK: Tell me that all team members have the development environment on their laptops.
+  PLAN: Same as last iteration
   ## Clean code
   TASK: Show me what you did in terms of producing clean code.
   TASK: Show various variable names, class names, function names, method sizes, file names, comments etc.
@@ -29,5 +31,9 @@ TASK: What did the client give permission to be used in the Student Symposium?
 TASK: Show 5th iteration features.
 # TEAMWORK (show in the presentation)
 TASK: Each team member will explain what they did/produced and what part of the code they worked on.
+- Hunter - Playlist view, save state of user generated content, presentation media, updated Development and Deployment documentation to include FFmpeg
+- Jaden - Layout Designing and implementation, User documentation
+- Sam - Testing & Sorting/customizing list of clips in a playlist
+- Jacob- Researched FFmpeg
 # RANDOM (show in the presentation)
 OPTIONAL: Prepare an interesting slide that might be totally unrelated to the project or the class.
