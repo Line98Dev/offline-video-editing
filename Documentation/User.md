@@ -136,7 +136,7 @@ Once you have made as many video clips as you want, and added all your videos, y
 This will send your playlist to the Zooom servers under your account and will allow you to then view and share the playlist you made on the Zooom Web App.
 Keep in mind that the process of uploading the videos still may take some time, but you do not have to have the Zooom website open for it to finish.
 
-![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/PlaylistNoVideos.png)
+![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/upload_videos.png)
 
 [Back to Table of Contents](#User)
 
