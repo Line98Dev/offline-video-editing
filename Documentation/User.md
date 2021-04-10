@@ -48,7 +48,7 @@ Once logged in you will be faced with the Playlist screen. On this screen any pl
 
 Once a playlist is added to the list each playlist will have an "edit" and "remove" button to the right. Clicking on the "remove" button immediately to the right of a playlist will remove that specific playlist and will also delete any contents within the playlist as well.
 
-![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/removing_a_playlist.png)
+![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/remove_a_playlist.png)
 
 [Back to Table of Contents](#User)
 
@@ -56,11 +56,11 @@ Once a playlist is added to the list each playlist will have an "edit" and "remo
 
 To edit the information associated with a playlist click the "Edit Playlist" button to the right of the playlist you want to modify. This will take you to the screen that displays the contents of the Playlist and allows you to edit the information and upload the playlist.
 
-![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/MadeFirstPlaylist.png)
+![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/edit_a_playlist.png)
 
 This is the details screen for the playlist. Here you can fill out the fields to indicate what the videos in the playlist are about and change the title of the playlist. When you're done filling out the information, click the "submit" button to save your changes. You will then be directed back to the screen showing the contents of the playlist.
 
-![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/PlaylistDetails.png)
+![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/playlist_information.png)
 
 [Back to Table of Contents](#User)
 
