@@ -38,9 +38,9 @@ Open the application by clicking the application icon wherever apps are accessib
 
 Once logged in you will be faced with the Playlist screen. On this screen any playlists that you have created will be shown. To add a playlist click the "Create a new Playlist" button at the bottom of the window. This will create a new empty "untitled" playlist
 
-![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/PreMakingPlaylists.png)
+![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/creating_a_playlist.png)
 
-![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/MadeFirstPlaylist.png)
+![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/default_new_playlist.png)
 
 [Back to Table of Contents](#User)
 
@@ -48,7 +48,7 @@ Once logged in you will be faced with the Playlist screen. On this screen any pl
 
 Once a playlist is added to the list each playlist will have an "edit" and "remove" button to the right. Clicking on the "remove" button immediately to the right of a playlist will remove that specific playlist and will also delete any contents within the playlist as well.
 
-![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP%20User/MadeFirstPlaylist.png)
+![App Icon](https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/removing_a_playlist.png)
 
 [Back to Table of Contents](#User)
 
