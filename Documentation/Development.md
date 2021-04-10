@@ -77,7 +77,7 @@ Copy ffmpeg to the directory C:\Users\<username>\AppData\Local\Packages\ZoomDesk
       <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/WindowsFileExplorer.png" height="300">
     
     * Once that is done, your screen should look like this. 
-      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/ListOfVideos.png" height="300">
+    * <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/ListOfVideos.png" height="300">
     
     * After you have uploaded your video, you can edit the information of the playlist by clicking 'Edit the information'. Once you have done that, your screen should look like this. 
      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/playlist_information.png" height="300">
