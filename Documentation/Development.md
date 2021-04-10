@@ -59,114 +59,33 @@ Copy ffmpeg to the directory C:\Users\<username>\AppData\Local\Packages\ZoomDesk
 * Special section on how to test and how to interpret the result
   * Sign in screen
     * Users can sign in with Zooom credentials and the application will authenticate that you are using the right credentials. Also if the user does not have a Zooom account, they can register at the Zooom website. Another thing is, if the user forgets their password, they can change it via the link (Forgot Password) to Zooom’s website. 
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-Login.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-Login.png" height="300"></td>
-      </tr>
-    </table>
+<img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/LoginScreen.png" height="300">
     
   * Add Playlist
     * The user can add a playlist on this screen.
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-EmptyPlaylistView.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyPlaylistView.png" height="300"></td>
-      </tr>
-    </table>
+     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/creating_a_playlist.png" height="300">
     
     
     * This is what it will look like after adding a new playlist.
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-NewPlaylistAdded.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" height="300"></td>
-      </tr>
-    </table>
+     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/default_new_playlist.png" height="300">
     
   * Edit Playlist/Upload Video to playlist
     * First you will click the 'Edit playlist' button and that will bring you to this screen. 
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-EmptyVideoView.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyVideoView.png" height="300"></td>
-      </tr>
-    </table>
+      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-EmptyVideoView.png" height="300">
  
     * Once you have done that, you can click 'Add a video to upload' to upload a video from your device. 
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-FilePicker.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-FilePicker.png" height="300"></td>
-      </tr>
-    </table>
+      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/WindowsFileExplorer.png" height="300">
     
     * Once that is done, your screen should look like this. 
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android%20VideoAdded.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistWithVideo.png" height="300"></td>
-      </tr>
-    </table>
+      <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/ListOfVideos.png" height="300">
     
     * After you have uploaded your video, you can edit the information of the playlist by clicking 'Edit the information'. Once you have done that, your screen should look like this. 
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-PlaylistDetails.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistDetails.png" height="300"></td>
-      </tr>
-    </table>
+     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/playlist_information.png" height="300">
     
   * Playing the Video
     * To play the video, you can play the video in the thumbnail view or you can click the 'Preview' button for a larger video player. Here is a screenshot of the video in 'Preview' mode. 
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-VideoPreview.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-VideoPreview.png" height="300"></td>
-      </tr>
-    </table>
+     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/ClipPreview.png" height="300">
     
   * Logging off
     * If you wish to log off, go back to were all your playlists are and click the 'Log out' button.
-    <table>
-      <tr>
-         <td>Mobile</td>
-         <td>Desktop</td>
-      </tr>
-      <tr>
-         <td> <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/Android-Screenshots/Android-NewPlaylistAdded.jpg" height="300"></td>
-         <td><img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/UWP-Screenshots/UWP-PlaylistCreated.png" height="300"></td>
-      </tr>
-    </table>
+     <img src="https://github.com/Line98Dev/offline-video-editing/blob/master/Auxiliary%20Files/User_Documentation_Images/ListOfVideos.png" height="300">
